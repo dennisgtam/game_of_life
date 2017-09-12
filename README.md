@@ -1,20 +1,14 @@
 # game_of_life
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
+Conway's Game of Life in Clojure with wrapping edges.
 
 ## Usage
 
-FIXME: explanation
+(watch-evolve patterns/r-pentomino) for r-pentomino evolution. 
 
-    $ java -jar game_of_life-0.1.0-standalone.jar [args]
 
 ## Options
 
-FIXME: listing of options this app accepts.
 
 ## Examples
 
